@@ -1,0 +1,23 @@
+{
+  "name": "kue-redis-mock-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpoetzsch/kue-redis-mock-example.git"
+  },
+  "author": "David Poetzsch-Heffter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpoetzsch/kue-redis-mock-example/issues"
+  },
+  "homepage": "https://github.com/dpoetzsch/kue-redis-mock-example#readme",
+  "dependencies": {
+    "kue": "^0.11.5",
+    "redis-mock": "^0.16.0"
+  }
+}
